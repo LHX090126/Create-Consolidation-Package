@@ -10,4 +10,4 @@
 
 整合包版本带SE(Supplementary Edition)为优化+机械动力(单Mod+附属)
 
-整合包版本带PME(Playing Method Edition)为优化+机械动力(单Mod+附属)+其他Mod(包括但不限于联动MOD)
+整合包版本带PME(Playing Method Edition)为优化+机械动力(单Mod+附属)+其他Mod(包括但不限于联动Mod)
